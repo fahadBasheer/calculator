@@ -1,0 +1,36 @@
+body{
+    background: whitesmoke;
+}
+
+.main-border{
+    background-color: #595959;
+    border-radius: 5%;
+    height: 80vh;
+    width: 100%;
+}
+
+.main-input-field{
+    border: none;
+    border-radius: 5px;
+    background-color: #cfe0ce;
+    width: 100%;
+    font-size: 2em;
+}
+
+.btns{
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn{
+    font-size: 1.5em;
+    padding: 5px 25px;
+}
+
+.btn-point{
+    width: 21%;
+}
+
+.equal-btn{
+    width: 20%;
+}
